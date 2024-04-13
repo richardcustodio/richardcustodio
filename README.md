@@ -1,17 +1,15 @@
-# Olá! Meu nome é Richard Custodio 
-## Seja bem vindo ao meu perfil
+<html>
+<head>
+<title>Divs</title>
+</head>
 
-<!--
-**richardcustodio/richardcustodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
+<div style="background-color:#00BFFF;text-align:center">
+<p>Primeira Div</p>
+</div>
+<div style="border:3px dotted #9F0">
+<p>Segunda Div</p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
