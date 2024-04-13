@@ -1,4 +1,6 @@
-### Hi there 👋
+
+### Olá! Meu nome é Richard Custodio 
+## Seja bem vindo ao meu perfil
 
 <!--
 **richardcustodio/richardcustodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
