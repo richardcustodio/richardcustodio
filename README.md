@@ -1,15 +1,11 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title>Divs</title>
+    <title>Meu perfil no Github</title>
+    <meta charset="utf-8"/>
 </head>
-
 <body>
-<div style="background-color:#00BFFF;text-align:center">
-<p>Primeira Div</p>
-</div>
-<div style="border:3px dotted #9F0">
-<p>Segunda Div</p>
-</div>
-
+<b1>Olá! Me chamo Richard Custodio e seja bem vindo ao meu perfil</b1>
+  <im src="7he R4.gif" alt="Imagem inicio">
 </body>
 </html>
