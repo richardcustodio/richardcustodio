@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center"> Apresentação </h2>
-<div align="center">
+<div>
   <p>Atualmente estou estudando Frontend de forma independente para aprimorar minhas habilidades e procurando oportunidades para aperfeiçoar meus conhecimentos.</p>
 </div>
 
