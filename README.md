@@ -15,6 +15,6 @@
 
 <h2> Entre em contato comigo </h2>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](Richard:rc.custodio@outlook.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](rc.custodio@outlook.com)
 
 
