@@ -11,5 +11,6 @@
 
 <h2> Meus contatos </h2>
 
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/richardcustodio)
 
 
