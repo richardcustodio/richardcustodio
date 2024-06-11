@@ -11,7 +11,7 @@
 
 <h2> Meus perfils </h2>
 30A3DC
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-4682B4?style=for-the-badge)](https://web.dio.me/users/rc_custodio078)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/rc_custodio078)
 
 <h2> Entre em contato comigo </h2>
 
