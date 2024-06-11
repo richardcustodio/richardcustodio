@@ -9,5 +9,7 @@
   <p>Atualmente estou estudando Frontend de forma independente para aprimorar minhas habilidades e procurando oportunidades para aperfeiçoar meus conhecimentos.</p>
 </div>
 
+<h2> Meus contatos </h2>
+
 
 
