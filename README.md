@@ -57,5 +57,5 @@
 
 ## Github Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=richardcustodio&theme=bear&background=000&border=0000FF&dates=00BFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=richardcustodio&theme=bear&background=000&border=00BFFF&dates=00BFFF)](https://git.io/streak-stats)
 
