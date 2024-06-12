@@ -46,4 +46,4 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xhelton&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xrichardcustodio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
