@@ -10,7 +10,7 @@
   <p>Eu sou o Richard Custódio. Atualmente estou estudando Frontend de maneira independente para aprimorar minhas habilidades e em busca de oportunidades para expandir meu conhecimento.</p>
 </div>
 
-#### Perfil
+## Perfil
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-4682B4?style=for-the-badge)](https://web.dio.me/users/rc_custodio078)
 
