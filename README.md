@@ -49,3 +49,7 @@
 ## Most Used Languages
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=richardcustodio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## Github Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1rods&theme=bear&background=000&border=#4747d1&dates=FFF)](https://github.com/1rods)
