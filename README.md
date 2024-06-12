@@ -10,17 +10,15 @@
   <p>Eu sou o Richard Custódio. Atualmente estou estudando Frontend de maneira independente para aprimorar minhas habilidades e em busca de oportunidades para expandir meu conhecimento.</p>
 </div>
 
-## Perfil
+## Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rc.custodio078)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-070808?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rc.custodio078)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-070808?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/) 
 
-[![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richardcustodio)
+[![GitHub](https://img.shields.io/badge/GitHub-070808?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richardcustodio)
 
-## Contato
-
-## Habilidades
+## Linguagens 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -28,7 +26,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## IDEs
+## Ferramentas de desenvolvimento
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -42,14 +40,19 @@
 
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+## Operating System
+
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardcustodio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardcustodio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00BFFF&text_color=FFF)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=richardcustodio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=richardcustodio&bg_color=000&border_color=30A3DC&title_color=00BFFF&text_color=FFF)
 
 ## Github Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1rods&theme=bear&background=0000FF&border=#0000CD&dates=FFF)](https://github.com/richardcustodio)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=richardcustodio&theme=bear&background=000&border=0000FF&dates=00BFFF)](https://git.io/streak-stats)
+
