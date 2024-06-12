@@ -4,7 +4,7 @@
   <a align="center" color="F00">Richard Custodio Batista Quadra</a> 
 </h1>
 
-### Apresentação
+## Apresentação
 
 <div>
   <p>Eu sou o Richard Custódio. Atualmente estou estudando Frontend de maneira independente para aprimorar minhas habilidades e em busca de oportunidades para expandir meu conhecimento.</p>
