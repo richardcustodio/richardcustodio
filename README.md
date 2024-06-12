@@ -52,4 +52,4 @@
 
 ## Github Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1rods&theme=bear&background=000&border=#4747d1&dates=FFF)](https://github.com/1rods)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1rods&theme=bear&background=000&border=#4747d1&dates=FFF)](https://github.com/richardcustodio)
