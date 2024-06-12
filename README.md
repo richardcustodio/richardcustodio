@@ -1,8 +1,10 @@
+<div align="center">
+<img align="center" padding="50px" alt="Imagem do topo" src="https://github.com/richardcustodio/richardcustodio/assets/143043944/e9654e75-31a8-4959-b28a-f3482b239110">
+</div>
+
 <h1>
   <a align="center" color="F00">Richard Custodio Batista Quadra</a> 
 </h1>
-
-
 
 <h2> Apresentação </h2>
 <div>
