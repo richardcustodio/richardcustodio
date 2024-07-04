@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/richardcustodio/richardcustodio/assets/143043944/f93c9590-e9b7-46c0-a106-d2a13a3aefc3"  width="1900px" height="350px" />
+<img src="https://github.com/richardcustodio/richardcustodio/assets/143043944/f93c9590-e9b7-46c0-a106-d2a13a3aefc3"  width="1200px" height="250px" />
 </div>
 
 <h1>
