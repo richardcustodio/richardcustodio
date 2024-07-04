@@ -1,5 +1,8 @@
 <img align="center" padding="50px" alt="Imagem do topo" src="https://github.com/richardcustodio/richardcustodio/assets/143043944/e9654e75-31a8-4959-b28a-f3482b239110">
 
+![20dc6563-cff8-42a0-9ca0-cf48c4ba7430](https://github.com/richardcustodio/richardcustodio/assets/143043944/f93c9590-e9b7-46c0-a106-d2a13a3aefc3)
+
+
 <h1>
   <a align="center" color="F00">Richard Custodio Batista Quadra</a> 
 </h1>
