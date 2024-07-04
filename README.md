@@ -1,4 +1,4 @@
-<img align="center" padding="200px" alt="Imagem do topo do perfil" height="350" width="1200" src="https://github.com/richardcustodio/richardcustodio/assets/143043944/f93c9590-e9b7-46c0-a106-d2a13a3aefc3"/>
+<img align="center" padding="200px" alt="Imagem do topo do perfil" height="320" width="1000" src="https://github.com/richardcustodio/richardcustodio/assets/143043944/f93c9590-e9b7-46c0-a106-d2a13a3aefc3"/>
 
 <h1>
     <!--<img align="" alt="" height="" width="" src=""-->
