@@ -1,5 +1,3 @@
-<img align="center" padding="200px" alt="Imagem do topo do perfil" height="300" width="900" src="https://github.com/richardcustodio/richardcustodio/assets/143043944/f93c9590-e9b7-46c0-a106-d2a13a3aefc3"/>
-
 <h1>
     <!--<img align="" alt="" height="" width="" src=""-->
     <span>Richard Custodio Batista Quadra</span>
