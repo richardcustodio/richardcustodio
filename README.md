@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-070808?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/) 
 [![GitHub](https://img.shields.io/badge/GitHub-070808?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richardcustodio)
 
-<h2>Linguagens</h2> 
+<h2>Atualmente estudando</h2> 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,11 +28,6 @@
 <h2>Ferramentas</h2>
 
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-
-<h2>Aprendendo</h2>
-
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <h2>Operating System</h2>
 
