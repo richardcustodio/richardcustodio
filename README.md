@@ -11,7 +11,6 @@
   
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-070808?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rc.custodio078)
 [![LinkedIn](https://img.shields.io/badge/linkedin-070808?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/) 
-[![GitHub](https://img.shields.io/badge/GitHub-070808?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richardcustodio)
 
 <h2>Atualmente estudando</h2> 
 
