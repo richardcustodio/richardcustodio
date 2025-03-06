@@ -1,7 +1,7 @@
 <!-- Profile Header / Cabeçalho do Perfil -->
 <h1 align="center">
     <!-- Profile Picture -->
-    <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="100px" alt="Profile Picture">
+    <img src="file:///C:/Users/rccus/OneDrive/Imagens/Foto%20reais%20de%20mim/IMG_20250128_101442_950.jpg" width="100px" alt="Profile Picture">
     <br>
     Richard Custodio Batista Quadra  
 </h1>
