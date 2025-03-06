@@ -1,69 +1,95 @@
 <!-- Profile Header / Cabeçalho do Perfil -->
-<h1>
-    <!-- Optional profile picture / Imagem de perfil opcional -->
-    <!--<img align="" alt="Profile Picture" height="" width="" src=""-->
-    <span>Richard Custodio Batista Quadra</span>
+<h1 align="center">
+    <!-- Profile Picture -->
+    <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="100px" alt="Profile Picture">
+    <br>
+    Richard Custodio Batista Quadra  
 </h1>
 
-<!-- About Me / Sobre Mim -->
-<h2>About Me / Apresentação</h2>
-<p>
-    I'm Richard Custodio. Currently, I am studying Frontend development independently to improve my skills and looking for opportunities to expand my knowledge. <br>
-    Eu sou o Richard Custódio. Atualmente estou estudando Frontend de maneira independente para aprimorar minhas habilidades e em busca de oportunidades para expandir meu conhecimento.
+<!-- Bio Rápida -->
+<p align="center">
+    🚀 Frontend Developer | Apaixonado por tecnologia e inovação | Sempre aprendendo algo novo!
 </p>
 
-<!-- Connect With Me / Conecte-se Comigo -->
-<h2>Connect With Me / Conecte-se Comigo</h2>
+---
 
-[![DIO Profile](https://img.shields.io/badge/-My%20DIO%20Profile-070808?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rc.custodio078)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rc.custodio078@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rc.custodio@outlook.com)
+## 🚀 About Me / Sobre Mim  
+I'm Richard Custodio, a passionate Frontend Developer eager to learn and grow. Currently, I’m independently studying web technologies to enhance my skills and looking for opportunities to apply my knowledge.  
 
-<!-- Currently Studying / Atualmente Estudando -->
-<h2>Currently Studying / Atualmente Estudando</h2>
+Eu sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e inovação. Atualmente, estou estudando de forma independente para aprimorar minhas habilidades e buscando oportunidades para aplicar meu conhecimento.  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+---
 
-<!-- Development Tools / Ferramentas de Desenvolvimento -->
-<h2>Development Tools / Ferramentas de Desenvolvimento</h2>
+## 📫 Connect With Me / Conecte-se Comigo  
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![DIO Profile](https://img.shields.io/badge/-My%20DIO%20Profile-070808?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rc.custodio078)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rc.custodio078@gmail.com)  
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rc.custodio@outlook.com)  
 
-<!-- Tools / Ferramentas -->
-<h2>Tools / Ferramentas</h2>
+---
 
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=white)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](YOUR_TRELLO_URL)
-[![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)](YOUR_GIT_URL)
-[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://reactjs.org/)
+## 💡 What I'm Currently Learning / O que Estou Aprendendo  
 
-<!-- Browsers for Testing / Navegadores de Teste -->
-<h2>Browsers for Testing / Navegadores de Teste</h2>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/firefox/)
-[![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.google.com/chrome/)
-[![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://www.microsoft.com/edge)
+---
 
-<!-- Operating System / Sistema Operacional -->
-<h2>Operating System / Sistema Operacional</h2>
+## 🛠 Development Tools / Ferramentas de Desenvolvimento  
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
 
-<!-- GitHub Statistics / Estatísticas do GitHub -->
-<h2>GitHub Stats / Estatísticas do GitHub</h2>
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardcustodio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00BFFF&text_color=FFF)
+## 🌟 Featured Projects / Projetos em Destaque  
 
-<!-- Most Used Languages / Linguagens Mais Usadas -->
-<h2>Most Used Languages / Linguagens Mais Usadas</h2>
+[![Calculator Project](https://img.shields.io/badge/🔢%20Calculator%20Project-000?style=for-the-badge)](https://github.com/richardcustodio/calculator)  
+Uma calculadora simples e responsiva desenvolvida com HTML, CSS e JavaScript.  
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=richardcustodio&bg_color=000&border_color=30A3DC&title_color=00BFFF&text_color=FFF)
+[![Memory Game](https://img.shields.io/badge/🧠%20Memory%20Game-000?style=for-the-badge)](https://github.com/richardcustodio/memory-game)  
+Um jogo da memória interativo com animações CSS e JavaScript.  
 
-<!-- GitHub Streak / Sequência no GitHub -->
-<h2>GitHub Streak / Sequência no GitHub</h2>
+[![Portfolio Website](https://img.shields.io/badge/🌐%20Portfolio%20Website-000?style=for-the-badge)](https://github.com/richardcustodio/portfolio)  
+Meu portfólio pessoal, onde exibo meus projetos e experiência profissional.  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=richardcustodio&theme=bear&background=000&border=00BFFF&dates=00BFFF)](https://git.io/streak-stats)
+---
+
+## 📊 GitHub Stats / Estatísticas do GitHub  
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=richardcustodio&show_icons=true&theme=tokyonight" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcustodio&layout=compact&theme=tokyonight" height="150px">
+</div>  
+
+---
+
+## 🔥 GitHub Streak / Sequência no GitHub  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=richardcustodio&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+
+---
+
+## 🎖 Certifications / Certificações  
+
+![DIO - HTML & CSS](https://img.shields.io/badge/DIO-HTML%20&%20CSS-green?style=for-the-badge)  
+![DIO - JavaScript](https://img.shields.io/badge/DIO-JavaScript-yellow?style=for-the-badge)  
+![DIO - React](https://img.shields.io/badge/DIO-React-blue?style=for-the-badge)  
+
+---
+
+## 📌 Fun Facts About Me / Curiosidades  
+
+- 🎮 Adoro jogos e tecnologia.  
+- 📚 Sou apaixonado por livros de ficção e desenvolvimento pessoal.  
+- 🎬 Gosto de assistir séries e filmes nos momentos livres.  
+- 🤓 Estou sempre aprendendo algo novo!  
+
+---
+
