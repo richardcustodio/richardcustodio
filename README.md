@@ -84,9 +84,7 @@ Meu portfólio pessoal, onde exibo meus projetos e experiência profissional.
 
 ## 🎖 Certifications / Certificações  
 
-![DIO - HTML & CSS](https://img.shields.io/badge/DIO-HTML%20&%20CSS-green?style=for-the-badge)  
-![DIO - JavaScript](https://img.shields.io/badge/DIO-JavaScript-yellow?style=for-the-badge)  
-![DIO - React](https://img.shields.io/badge/DIO-React-blue?style=for-the-badge)  
+![ALURA](https://cursos.alura.com.br/user/rc-custodio078/fullCertificate/0ff880191e917d82fb2f70638c0189e2)   
 
 ---
 
