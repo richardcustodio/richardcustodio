@@ -6,7 +6,7 @@
 
 <!-- Bio Rápida -->
 <p align="center">
-    🚀 Frontend Developer | Apaixonado por tecnologia e inovação | Sempre aprendendo algo novo!
+    🚀 Apaixonado por tecnologia e inovação | Sempre aprendendo algo novo!
 </p>
 
 ---
@@ -14,11 +14,21 @@
 ## 🚀 About Me / Sobre Mim  
 I'm Richard Custodio, a passionate Frontend Developer eager to learn and grow. Currently, I’m independently studying web technologies to enhance my skills and looking for opportunities to apply my knowledge.  
 
-Eu sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e inovação. Atualmente, estou estudando de forma independente para aprimorar minhas habilidades e buscando oportunidades para aplicar meu conhecimento.  
+Eu sou Richard Custódio, um aspirate a desenvolvedor Frontend apaixonado por tecnologia e inovação. Atualmente, estou estudando de forma independente para aprimorar minhas habilidades e buscando oportunidades para aplicar meu conhecimento.  
 
 ---
 
-## 📫 Connect With Me / Conecte-se Comigo  
+## 💼 Profile Enhancements / Melhorias no Perfil  
+- 📷 **Adicionar uma Foto de Perfil Profissional** para causar uma boa impressão.  
+- 🌟 **Adicionar um Banner Personalizado** para destacar sua identidade visual.  
+- 🔹 **Incluir Badges de Conquistas** para evidenciar habilidades e certificações.  
+- 📚 **Adicionar Depoimentos ou Recomendações** para aumentar a credibilidade.  
+- 📓 **Manter o Perfil Atualizado** com novos projetos e aprendizados.  
+- 🔗 **Adicionar Links para Redes Sociais Profissionais** para expandir sua presença online.  
+
+---
+
+## 👨‍💻 Connect With Me / Conecte-se Comigo  
 
 [![DIO Profile](https://img.shields.io/badge/-My%20DIO%20Profile-070808?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rc.custodio078)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/)  
@@ -42,7 +52,7 @@ Eu sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e 
 
 ---
 
-## 🛠 Development Tools / Ferramentas de Desenvolvimento   
+## 🛠️ Development Tools / Ferramentas de Desenvolvimento   
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60px"/>
@@ -54,7 +64,7 @@ Eu sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e 
 
 ---
 
-## 🌟 Featured Projects / Projetos em Destaque  
+## 🎯 Featured Projects / Projetos em Destaque  
 
 [![Calculator Project](https://img.shields.io/badge/🔢%20Calculator%20Project-000?style=for-the-badge)](https://github.com/richardcustodio/calculator)  
 Uma calculadora simples e responsiva desenvolvida com HTML, CSS e JavaScript.  
