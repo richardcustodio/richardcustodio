@@ -82,12 +82,6 @@ Meu portfólio pessoal, onde exibo meus projetos e experiência profissional.
 
 ---
 
-## 🎖 Certifications / Certificações  
-
-![ALURA](https://cursos.alura.com.br/user/rc-custodio078/fullCertificate/0ff880191e917d82fb2f70638c0189e2)   
-
----
-
 ## 📌 Fun Facts About Me / Curiosidades  
 
 - 🎮 Adoro jogos e tecnologia.  
