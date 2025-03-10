@@ -13,13 +13,13 @@
 Sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e inovação. Atualmente, estudo de forma independente para aprimorar minhas habilidades e busco oportunidades para aplicar meu conhecimento em projetos reais. Sempre em busca de novos desafios e aprendizados!
 
 ---
-
-## 📌 Melhorias no Perfil  
-✔️ **Foto de Perfil Profissional** para causar uma boa impressão.  
-✔️ **Banner Personalizado** para destacar sua identidade visual.  
-✔️ **Badges e Certificações** para evidenciar habilidades.  
-✔️ **Perfil Sempre Atualizado** com novos projetos e aprendizados.  
-
+<!--
+## Melhorias no Perfil  
+ **Foto de Perfil Profissional** para causar uma boa impressão.  
+ **Banner Personalizado** para destacar sua identidade visual.  
+ **Badges e Certificações** para evidenciar habilidades.  
+ **Perfil Sempre Atualizado** com novos projetos e aprendizados.  
+-->
 ---
 
 ## 🌎 Conecte-se Comigo   
