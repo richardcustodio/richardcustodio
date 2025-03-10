@@ -31,7 +31,7 @@ Sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e ino
 ---
 
 ## 📚 O que Estou Aprendendo  
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"/>
@@ -46,7 +46,7 @@ Sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e ino
 
 ## 🏅 Skills / Habilidades  
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-Basic-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-Basic-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Basic-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -56,7 +56,7 @@ Sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e ino
 ---
 
 ## 🛠️ Ferramentas de Desenvolvimento  
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60px"/>
@@ -79,7 +79,7 @@ Meu portfólio pessoal, onde exibo meus projetos e experiência profissional.
 ---
 
 ## 📊 Estatísticas do GitHub  
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=richardcustodio&show_icons=true&theme=tokyonight" height="150px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcustodio&layout=compact&theme=tokyonight" height="150px">
 </div>  
@@ -87,7 +87,7 @@ Meu portfólio pessoal, onde exibo meus projetos e experiência profissional.
 ---
 
 ## 🔥 GitHub Streak  
-<div align="center">
+<div align="left">
     <img src="https://streak-stats.demolab.com?user=richardcustodio&theme=tokyonight&hide_border=true" height="150px">
 </div> 
 
