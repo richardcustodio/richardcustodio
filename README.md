@@ -1,44 +1,36 @@
 <!-- Profile Header / Cabeçalho do Perfil -->
 <h1 align="center">
-    <br>
     Richard Custodio Batista Quadra  
 </h1>
 
-<!-- Bio Rápida -->
 <p align="center">
-    🚀 Apaixonado por tecnologia e inovação | Sempre aprendendo algo novo!
+    🚀 Desenvolvedor Frontend | Apaixonado por tecnologia e inovação | Sempre aprendendo!
 </p>
 
 ---
 
-## 🚀 About Me / Sobre Mim  
-I'm Richard Custodio, a passionate Frontend Developer eager to learn and grow. Currently, I’m independently studying web technologies to enhance my skills and looking for opportunities to apply my knowledge.  
-
-Eu sou Richard Custódio, um aspirate a desenvolvedor Frontend apaixonado por tecnologia e inovação. Atualmente, estou estudando de forma independente para aprimorar minhas habilidades e buscando oportunidades para aplicar meu conhecimento.  
+## 🚀 Sobre Mim  
+Sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e inovação. Atualmente, estudo de forma independente para aprimorar minhas habilidades e busco oportunidades para aplicar meu conhecimento em projetos reais. Sempre em busca de novos desafios e aprendizados!
 
 ---
 
-## 💼 Profile Enhancements / Melhorias no Perfil  
-- 📷 **Adicionar uma Foto de Perfil Profissional** para causar uma boa impressão.  
-- 🌟 **Adicionar um Banner Personalizado** para destacar sua identidade visual.  
-- 🔹 **Incluir Badges de Conquistas** para evidenciar habilidades e certificações.  
-- 📚 **Adicionar Depoimentos ou Recomendações** para aumentar a credibilidade.  
-- 📓 **Manter o Perfil Atualizado** com novos projetos e aprendizados.  
-- 🔗 **Adicionar Links para Redes Sociais Profissionais** para expandir sua presença online.  
+## 📌 Melhorias no Perfil  
+✔️ **Foto de Perfil Profissional** para causar uma boa impressão.  
+✔️ **Banner Personalizado** para destacar sua identidade visual.  
+✔️ **Badges e Certificações** para evidenciar habilidades.  
+✔️ **Perfil Sempre Atualizado** com novos projetos e aprendizados.  
 
 ---
 
-## 👨‍💻 Connect With Me / Conecte-se Comigo  
-
-[![DIO Profile](https://img.shields.io/badge/-My%20DIO%20Profile-070808?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rc.custodio078)  
+## 🌎 Conecte-se Comigo  
+[![DIO Profile](https://img.shields.io/badge/-Meu%20Perfil%20DIO-070808?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rc.custodio078)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rc.custodio078@gmail.com)  
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rc.custodio@outlook.com)  
 
 ---
 
-## 💡 What I'm Currently Learning / O que Estou Aprendendo  
-
+## 📚 O que Estou Aprendendo  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px"/>
@@ -52,8 +44,18 @@ Eu sou Richard Custódio, um aspirate a desenvolvedor Frontend apaixonado por te
 
 ---
 
-## 🛠️ Development Tools / Ferramentas de Desenvolvimento   
+## 🏅 Skills / Habilidades  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Basic-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Basic-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Basic-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-Basic-blue?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ Ferramentas de Desenvolvimento  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60px"/>
@@ -64,8 +66,7 @@ Eu sou Richard Custódio, um aspirate a desenvolvedor Frontend apaixonado por te
 
 ---
 
-## 🎯 Featured Projects / Projetos em Destaque  
-
+## 🎯 Projetos em Destaque  
 [![Calculator Project](https://img.shields.io/badge/🔢%20Calculator%20Project-000?style=for-the-badge)](https://github.com/richardcustodio/calculator)  
 Uma calculadora simples e responsiva desenvolvida com HTML, CSS e JavaScript.  
 
@@ -77,8 +78,7 @@ Meu portfólio pessoal, onde exibo meus projetos e experiência profissional.
 
 ---
 
-## 📊 GitHub Stats / Estatísticas do GitHub  
-
+## 📊 Estatísticas do GitHub  
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=richardcustodio&show_icons=true&theme=tokyonight" height="150px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcustodio&layout=compact&theme=tokyonight" height="150px">
@@ -86,16 +86,14 @@ Meu portfólio pessoal, onde exibo meus projetos e experiência profissional.
 
 ---
 
-## 🔥 GitHub Streak / Sequência no GitHub  
-
+## 🔥 GitHub Streak  
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=richardcustodio&theme=tokyonight&hide_border=true" height="150px">
 </div> 
 
 ---
 
-## 📌 Fun Facts About Me / Curiosidades  
-
+## 🎮 Curiosidades  
 - 🎮 Adoro jogos e tecnologia.  
 - 📚 Sou apaixonado por livros de ficção e desenvolvimento pessoal.  
 - 🎬 Gosto de assistir séries e filmes nos momentos livres.  
