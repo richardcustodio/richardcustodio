@@ -90,9 +90,7 @@ Meu portfólio pessoal, onde exibo meus projetos e experiência profissional.
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=richardcustodio&theme=tokyonight&hide_border=true" height="150px">
-</div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=richardcustodio&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+</div> 
 
 ---
 
