@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    🚀 Desenvolvedor Frontend | Apaixonado por tecnologia e inovação | Sempre aprendendo!
+    🚀 Aspirante a Desenvolvedor Frontend | Apaixonado por tecnologia e inovação | Sempre aprendendo!
 </p>
 
 ---
@@ -96,7 +96,7 @@ Meu portfólio pessoal, onde exibo meus projetos e experiência profissional.
 ## 🎮 Curiosidades  
 - 🎮 Adoro jogos e tecnologia.  
 - 📚 Sou apaixonado por livros de ficção e desenvolvimento pessoal.  
-- 🎬 Gosto de assistir séries e filmes nos momentos livres.  
-- 🤓 Estou sempre aprendendo algo novo!  
+- 🎥 Gosto de assistir séries e filmes nos momentos livres.  
+- 🧙️‍♂️ Estou sempre aprendendo algo novo!  
 
 ---
