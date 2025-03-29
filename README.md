@@ -13,14 +13,6 @@
 Sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e inovação. Atualmente, estudo de forma independente para aprimorar minhas habilidades e busco oportunidades para aplicar meu conhecimento em projetos reais. Sempre em busca de novos desafios e aprendizados!
 
 ---
-<!--
-## Melhorias no Perfil  
- **Foto de Perfil Profissional** para causar uma boa impressão.  
- **Banner Personalizado** para destacar sua identidade visual.  
- **Badges e Certificações** para evidenciar habilidades.  
- **Perfil Sempre Atualizado** com novos projetos e aprendizados.  
--->
----
 
 ## 🌎 Conecte-se Comigo   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/)  
@@ -41,13 +33,18 @@ Sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e ino
 
 ---
 
-## 🏅 Skills / Habilidades  
+## 🏅 Skills / Habilidades
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-Basic-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Basic-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Basic-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React.js-Basic-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-Básico-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Básico-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Básico-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-Básico-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/TypeScript-Aprendendo-yellow?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-Aprendendo-orange?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Aprendendo-blueviolet?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Básico-lightgrey?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -69,15 +66,41 @@ Sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e ino
 
 ---
 
-## 🎯 Projetos em Destaque  
-[![Calculator Project](https://img.shields.io/badge/🔢%20Calculator%20Project-000?style=for-the-badge)](https://github.com/richardcustodio/calculator)  
-Uma calculadora simples e responsiva desenvolvida com HTML, CSS e JavaScript.  
+## 🎯 Projetos em Destaque
 
-[![Memory Game](https://img.shields.io/badge/🧠%20Memory%20Game-000?style=for-the-badge)](https://github.com/richardcustodio/memory-game)  
-Um jogo da memória interativo com animações CSS e JavaScript.  
+### 🔒 Decodificador de Texto (Desafio Alura)
+[![Decodificador de Texto](https://img.shields.io/badge/Ver%20Código-blue?style=for-the-badge&logo=github)](https://github.com/richardcustodio/Decodificador-de-Texto)
+<br>
+Projeto desenvolvido como parte de um desafio do curso da Alura, implementando a codificação e decodificação de textos utilizando cifras clássicas como César, Vigenère e Atbash. O projeto envolveu lógica de programação e manipulação de strings em **JavaScript**, com interface construída em **HTML** e **CSS**.
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+<br>
 
-[![Portfolio Website](https://img.shields.io/badge/🌐%20Portfolio%20Website-000?style=for-the-badge)](https://github.com/richardcustodio/portfolio)  
-Meu portfólio pessoal, onde exibo meus projetos e experiência profissional.  
+### 📦 Catálogo de Produtos Dinâmico com CRUD
+[![Catálogo de Produtos](https://img.shields.io/badge/Ver%20Código-blue?style=for-the-badge&logo=github)](https://github.com/richardcustodio/Catalogo-de-Produtos)
+<br>
+Um catálogo de produtos dinâmico e interativo desenvolvido com **React** e **Vite**, oferecendo funcionalidades **CRUD** (Criar, Ler, Atualizar e Deletar) completas. O usuário pode adicionar, visualizar, editar e excluir produtos de forma simples e eficiente. Este projeto demonstra habilidades em gerenciamento de estado de componentes e manipulação de dados com React.
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+<br>
+
+### 🌐 Meu Portfólio Pessoal
+[![Portfólio](https://img.shields.io/badge/Ver%20Código-blue?style=for-the-badge&logo=github)](https://github.com/richardcustodio/Portfolio)
+[![Ver Demonstração](https://img.shields.io/badge/Ver%20Demonstração-green?style=for-the-badge&logo=web)](https://richardcustodio.github.io/Portfolio/)
+<br>
+Meu portfólio pessoal, onde apresento meus projetos, habilidades e experiência profissional. Desenvolvido com **HTML**, **CSS** e **JavaScript**, este projeto tem como objetivo demonstrar minhas capacidades de desenvolvimento frontend e design web.
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+<br>
 
 ---
 
