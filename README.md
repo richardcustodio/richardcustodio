@@ -21,30 +21,24 @@ Sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e ino
 
 ---
 
-## 📚 O que Estou Aprendendo  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
-
----
-
-## 🏅 Skills / Habilidades
+## 🏅 Habilidades
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-Básico-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-Básico-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Básico-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React.js-Básico-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <br>
+  <img src="https://img.shields.io/badge/Git-Básico-lightgrey?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📚 Aprendendo Atualmente
+
+<p align="left">
   <img src="https://img.shields.io/badge/TypeScript-Aprendendo-yellow?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-Aprendendo-orange?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-Aprendendo-blueviolet?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Básico-lightgrey?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -86,7 +80,8 @@ Projeto desenvolvido como parte de um desafio do curso da Alura, implementando a
 <br>
 Um catálogo de produtos dinâmico e interativo desenvolvido com **React** e **Vite**, oferecendo funcionalidades **CRUD** (Criar, Ler, Atualizar e Deletar) completas. O usuário pode adicionar, visualizar, editar e excluir produtos de forma simples e eficiente. Este projeto demonstra habilidades em gerenciamento de estado de componentes e manipulação de dados com React.
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white" />
