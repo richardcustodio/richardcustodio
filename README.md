@@ -109,21 +109,6 @@ Meu portfólio pessoal, onde apresento meus projetos, habilidades e experiência
 
 ---
 
-## 📊 Estatísticas do GitHub  
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=richardcustodio&show_icons=true&theme=tokyonight" height="150px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcustodio&layout=compact&theme=tokyonight" height="150px">
-</div>  
-
----
-
-## 🔥 GitHub Streak  
-<div align="left">
-    <img src="https://streak-stats.demolab.com?user=richardcustodio&theme=tokyonight&hide_border=true" height="150px">
-</div> 
-
----
-
 ## 🎮 Curiosidades  
 - 🎮 Adoro jogos e tecnologia.  
 - 📚 Sou apaixonado por livros de ficção e desenvolvimento pessoal.  
@@ -131,3 +116,34 @@ Meu portfólio pessoal, onde apresento meus projetos, habilidades e experiência
 - 🧙️‍♂️ Estou sempre aprendendo algo novo!  
 
 ---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=richardcustodio&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcustodio&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=richardcustodio&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## Resumo do Perfil
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=richardcustodio&theme=dark" alt="Estatísticas do Perfil" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=richardcustodio&hide=Html&theme=dark" alt="Repositórios por Linguagem" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=richardcustodio&theme=dark" alt="Linguagem de Commits Mais Usada" />
+      </td>
+    </tr>
+  </table>
+</div>
