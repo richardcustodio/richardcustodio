@@ -14,10 +14,11 @@ Sou Richard Custódio, um desenvolvedor Frontend apaixonado por tecnologia e ino
 
 ---
 
-## 🌎 Conecte-se Comigo   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rc.custodio078@gmail.com)  
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rc.custodio@outlook.com)  
+##  Conecte-se Comigo
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/) - Conecte-se comigo no LinkedIn para oportunidades profissionais.
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rc.custodio078@gmail.com) - Envie-me um email para contato.
+* [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rc.custodio@outlook.com)  - Envia-me um email para contato.
 
 ---
 
