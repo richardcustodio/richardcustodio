@@ -46,8 +46,8 @@ Atualmente, estudo **bancos de dados relacionais (MySQL)** e aplico meus conheci
 ## 💼 Projetos em Destaque
 
 ### 🌐 Meu Portfólio Pessoal
-[![Ver Código](https://img.shields.io/badge/Ver%20Código-blue?style=for-the-badge&logo=github)](https://github.com/richardcustodio/Portfolio)
-[![Ver Demonstração](https://img.shields.io/badge/Ver%20Demonstração-green?style=for-the-badge&logo=web)](https://richardcustodio.github.io/Portfolio/)
+[![Ver Código](https://img.shields.io/badge/Ver%20Código-blue?style=for-the-badge&logo=github)](https://github.com/richardcustodio/Portfolio-)
+[![Ver Demonstração](https://img.shields.io/badge/Ver%20Demonstração-green?style=for-the-badge&logo=web)](https://portfolio-neon-one-77.vercel.app/)
 
 > Portfólio com meus projetos, habilidades e experiência. Construído com **HTML**, **CSS**, **JavaScript** e **React**.
 
