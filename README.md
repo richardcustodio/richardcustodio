@@ -1,105 +1,113 @@
-<!-- Profile Header -->
 <h1 align="center">🚀 Richard Custódio Batista Quadra</h1>
-<p align="center">Estudante de Backend | Explorando Java, Python e Sistemas Web</p>
+<p align="center">Desenvolvedor Backend (Java & Python) | Transição Decidida e Foco na Construção de Sistemas</p>
+
+<div align="center">
+  <br>
+  ![Procurando Oportunidade](https://img.shields.io/badge/Buscando%20Oportunidade-Backend%20Developer-red?style=for-the-badge&logo=github)
+</div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim: Backend como Carreira
 
-Sou Richard Custódio, estudante em transição para o desenvolvimento backend. Tenho me aprofundado em **Java** e **Python**, com foco em construir aplicações robustas e escaláveis. Minha base em **HTML, CSS, JavaScript, React, TypeScript e Redux** me permite compreender bem o ciclo completo de desenvolvimento web.
+Sou Richard Custódio, um desenvolvedor em transição de carreira com foco **integral e decidido no desenvolvimento Backend**.
 
-Atualmente, estudo **bancos de dados relacionais (MySQL)** e aplico meus conhecimentos em projetos práticos. Busco minha primeira oportunidade na área de tecnologia, com entusiasmo para crescer, colaborar e aprender constantemente.
+Minha trilha de estudos está concentrada em **Java** e **Python**, dedicando-me a arquitetar e construir **soluções robustas, seguras e de alta performance**. Estou aprofundando o domínio em **Bancos de Dados Relacionais (MySQL)**, com ênfase em modelagem e otimização.
+
+Possuo uma **base sólida de conhecimento em Frontend** (HTML, CSS, JavaScript, React), o que me permite entender perfeitamente a integração da aplicação de ponta a ponta e colaborar de forma eficiente com equipes de frontend.
+
+Busco minha primeira oportunidade para aplicar o conhecimento adquirido, pronto para integrar uma equipe de engenharia e contribuir com entusiasmo e foco total no ambiente Backend.
 
 ---
 
 ## 🔗 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rc.custodio078@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rc.custodio@outlook.com)
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rc.custodio078@gmail.com)
+  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rc.custodio@outlook.com)
+</div>
 
 ---
 
 ## 🧠 Habilidades Técnicas
 
-### 🔧 Backend
-![Java](https://img.shields.io/badge/Java-Em%20aprendizado-red?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Básico-blue?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Básico-blueviolet?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-Básico-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Básico-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Básico-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-Básico-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Aprendendo-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-Aprendendo-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ### ☕ Stack Backend (Foco Principal)
+  ![Java](https://img.shields.io/badge/Java-Especialização-red?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-Em%20Estudo-blue?style=for-the-badge&logo=python&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-Essencial-blueviolet?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Ferramentas
-![Git](https://img.shields.io/badge/Git-Básico-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+  <br>
+
+  ### 🎨 Frontend (Base de Conhecimento)
+  ![HTML5](https://img.shields.io/badge/HTML5-Básico-orange?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-Básico-blue?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-Básico-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-Básico-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-Básico-blue?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-Em%20Estudo-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+  <br>
+
+  ### ⚙️ Ferramentas & Metodologias
+  ![Git](https://img.shields.io/badge/Git-Básico-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+</div>
 
 ---
 
 ## 💼 Projetos em Destaque
 
-### 🌐 Meu Portfólio Pessoal
+### 🌐 Meu Portfólio Pessoal (Visão Full-Stack)
 [![Ver Código](https://img.shields.io/badge/Ver%20Código-blue?style=for-the-badge&logo=github)](https://github.com/richardcustodio/Portfolio-)
 [![Ver Demonstração](https://img.shields.io/badge/Ver%20Demonstração-green?style=for-the-badge&logo=web)](https://portfolio-neon-one-77.vercel.app/)
 
-> Portfólio com meus projetos, habilidades e experiência. Construído com **HTML**, **CSS**, **JavaScript** e **React**.
+> Este projeto demonstra minha base em frontend e a **visão completa** do desenvolvimento web, sendo um diferencial na comunicação entre as áreas.
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
----
-
-## 🎮 Curiosidades
-
-- 🎮 Apaixonado por jogos desde a infância – foi assim que conheci programação.  
-- 📚 Leitor dedicado, com interesse em ficção científica e desenvolvimento pessoal.  
-- 🎥 Entusiasta de séries e filmes como forma de relaxar e explorar narrativas.  
-- 🧙‍♂️ Gosto de aprender novas tecnologias e me desafiar com projetos próprios.
-
----
-
-## 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richardcustodio&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcustodio&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-</div>
-
-### 🔥 Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=richardcustodio&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-### 🧾 Resumo do Perfil
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=richardcustodio&theme=dark" alt="Estatísticas do Perfil" />
-      </td>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=richardcustodio&hide=Html&theme=dark" alt="Repositórios por Linguagem" />
-      </td>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=richardcustodio&theme=dark" alt="Linguagem de Commits Mais Usada" />
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white" />
 </div>
 
 ---
 
-## 🧭 Status Atual
+## 📊 GitHub Insights e Curiosidades
 
-![Procurando Oportunidade](https://img.shields.io/badge/Procurando-Oportunidade-red?style=for-the-badge&logo=github)
+<div align="center">
+  
+  ### 📈 Estatísticas
+  <img src="https://github-readme-stats.vercel.app/api?username=richardcustodio&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcustodio&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
+
+  <br>
+  
+  ### 🔥 Streak e Atividade
+  <img src="https://streak-stats.demolab.com?user=richardcustodio&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+### 🎮 Curiosidades
+- 🎮 Apaixonado por jogos desde a infância – foi assim que conheci programação.
+- 📚 Leitor dedicado, com interesse em ficção científica e desenvolvimento pessoal.
+- 🎥 Entusiasta de séries e filmes como forma de relaxar e explorar narrativas.
+- 🧙‍♂️ Gosto de aprender novas tecnologias e me desafiar com projetos próprios de **backend**.
+
+---
+
+## 🎯 Próximos Passos (Chamada Final de Ação)
+
+<div align="center">
+  <h3 style="color: #61DAFB;">
+    Estou ativamente buscando minha primeira experiência como **Desenvolvedor Backend**.
+    <br><br>
+    Vamos criar sistemas robustos e eficientes! Me chame no <a href="https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/">LinkedIn</a>.
+  </h3>
+</div>
