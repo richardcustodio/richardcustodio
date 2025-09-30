@@ -35,9 +35,9 @@ Busco minha primeira oportunidade para aplicar o conhecimento adquirido, pronto 
 <div align="center">
 
   ### ☕ Stack Backend (Foco Principal)
-  ![Java](https://img.shields.io/badge/Java-Especialização-red?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-Em%20Estudo-blue?style=for-the-badge&logo=python&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-Essencial-blueviolet?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-Em%20Estudo-red?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-Básico-blue?style=for-the-badge&logo=python&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-Básico-blueviolet?style=for-the-badge&logo=mysql&logoColor=white)
 
   <br>
 
@@ -47,7 +47,7 @@ Busco minha primeira oportunidade para aplicar o conhecimento adquirido, pronto 
   ![JavaScript](https://img.shields.io/badge/JavaScript-Básico-yellow?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-Básico-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-Básico-blue?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-Em%20Estudo-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-Básico-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
   <br>
 
