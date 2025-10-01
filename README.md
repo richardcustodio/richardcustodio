@@ -1,6 +1,5 @@
 <h1 align="center">🚀 Richard Custódio Batista Quadra</h1>
 <p align="center">Desenvolvedor Backend (Java & Python) | Transição Decidida e Foco na Construção de Sistemas</p>
----
 
 ## 👨‍💻 Sobre Mim: Backend como Carreira
 
