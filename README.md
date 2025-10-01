@@ -1,11 +1,5 @@
 <h1 align="center">🚀 Richard Custódio Batista Quadra</h1>
 <p align="center">Desenvolvedor Backend (Java & Python) | Transição Decidida e Foco na Construção de Sistemas</p>
-
-<div align="center">
-  <br>
-  ![Procurando Oportunidade](https://img.shields.io/badge/Buscando%20Oportunidade-Backend%20Developer-red?style=for-the-badge&logo=github)
-</div>
-
 ---
 
 ## 👨‍💻 Sobre Mim: Backend como Carreira
