@@ -61,66 +61,54 @@ Tenho grande interesse em **Cibersegurança**, buscando aplicar práticas de seg
 
 ## 💼 Projetos em Destaque
 
-### 🌐 Meu Portfólio Pessoal (Visão Full-Stack)
-[![Ver Código](https://img.shields.io/badge/Ver%20Código-blue?style=for-the-badge&logo=github)](https://github.com/richardcustodio/Portfolio-)
-[![Ver Demonstração](https://img.shields.io/badge/Ver%20Demonstração-green?style=for-the-badge&logo=web)](https://portfolio-neon-one-77.vercel.app/)
-
-> Este projeto demonstra minha base em frontend e a **visão completa** do desenvolvimento web, sendo um diferencial na comunicação entre as áreas.
-<br>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white" />
-</div>
+Aqui estão alguns dos meus projetos publicados no **Vercel**, com código aberto no GitHub:
 
 ---
 
-## 📊 GitHub Insights e Curiosidades
-
-<div align="center">
-  
-  ### 📈 Estatísticas
-  <img src="https://github-readme-stats.vercel.app/api?username=richardcustodio&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcustodio&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
-
-  <br>
-  
-  ### 🔥 Streak e Atividade
-  <img src="https://streak-stats.demolab.com?user=richardcustodio&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-### 🎮 Curiosidades
-- 🎮 Apaixonado por jogos desde a infância – foi assim que conheci programação.
-- 📚 Leitor dedicado, com interesse em ficção científica e desenvolvimento pessoal.
-- 🎥 Entusiasta de séries e filmes como forma de relaxar e explorar narrativas.
-- 🧙‍♂️ Gosto de aprender novas tecnologias e me desafiar com projetos próprios de **backend**.
+### 🌐 Portfólio Pessoal
+- 📂 [Código](https://github.com/richardcustodio/Portfolio-)  
+- 🚀 [Demonstração](https://portfolio-neon-one-77.vercel.app/)  
+- ⚙️ Tecnologias: React, Vite
 
 ---
 
-## 🎯 Próximos Passos (Chamada Final de Ação)
+## 📊 GitHub Insights
 
-<div align="center">
-  <h3 style="color: #61DAFB;">
-    Estou ativamente buscando minha primeira experiência como **Desenvolvedor Backend**.
-    <br><br>
-    Vamos criar sistemas robustos e eficientes! Me chame no <a href="https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/">LinkedIn</a>.
-  </h3>
-</div>
+<p align="center">
+  <!-- Estatísticas principais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=richardcustodio&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
+  <br><br>
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcustodio&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
+  <br><br>
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=richardcustodio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🎯 Próximos Passos
+## 🎮 Curiosidades & Hobbies
+
+- 🎮 **Jogos** – gosto de jogar casualmente no meu tempo livre.  
+- 📚 **Leitura** – aprecio obras de ficção, além de livros de terror e suspense.  
+- 🎥 **Filmes** – fã de grandes sagas como *O Senhor dos Anéis*.  
+- 🧑‍💻 **Tecnologia** – quando tenho tempo, gosto de aprender mais sobre as tecnologias que já estudo e explorar novas tendências.
+
+---
+
+## 🎯 Disponibilidade
 
 <div align="center">
   <h3>
-    🔎 Buscando minha primeira oportunidade como <b>Desenvolvedor Backend</b>.  
-    <br>
-    🚀 Vamos criar sistemas robustos e eficientes juntos!  
+    📌 Atualmente estou em busca de uma oportunidade de <b>Estágio em Desenvolvimento Backend</b>.  
     <br><br>
-    👉 <a href="https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/">Conecte-se comigo no LinkedIn</a>.
+    🚀 Tenho dedicação, vontade de aprender e aplicar meus conhecimentos em <b>Java, Python e MySQL</b> em projetos reais.  
+    <br><br>
+    👉 Vamos conversar no <a href="https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/">LinkedIn</a>.
   </h3>
 </div>
+
+
 
