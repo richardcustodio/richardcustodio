@@ -9,8 +9,6 @@ Minha base em **Frontend** (HTML, CSS, JavaScript, React, TypeScript e Redux) me
 
 Tenho grande interesse em **Cibersegurança**, buscando aplicar práticas de segurança da informação como complemento à minha formação e à construção de sistemas robustos e confiáveis.  
 
-🎯 Estou em busca da minha primeira oportunidade como **estagiário em Desenvolvimento Backend**, pronto para aprender com equipes experientes e contribuir com dedicação, disciplina e entusiasmo.
-
 ---
 
 ## 🔗 Conecte-se Comigo
@@ -99,20 +97,6 @@ Em breve será disponibilizada uma nova versão atualizada.
 - 📚 **Leitura** – aprecio obras de ficção, além de livros de terror e suspense.  
 - 🎥 **Filmes** – fã de grandes sagas como *O Senhor dos Anéis*.  
 - 🧑‍💻 **Tecnologia** – quando tenho tempo, gosto de aprender mais sobre as tecnologias que já estudo e explorar novas tendências.
-
----
-
-## 🎯 Disponibilidade
-
-<div align="center">
-  <h3>
-    📌 Atualmente estou em busca de uma oportunidade de <b>Estágio em Desenvolvimento Backend</b>.  
-    <br><br>
-    🚀 Tenho dedicação, vontade de aprender e aplicar meus conhecimentos em <b>Java, Python e MySQL</b> em projetos reais.  
-    <br><br>
-    👉 Vamos conversar no <a href="https://www.linkedin.com/in/richard-custodio-batista-quadra-279391312/">LinkedIn</a>.
-  </h3>
-</div>
 
 
 
