@@ -66,9 +66,13 @@ Aqui estão alguns dos meus projetos publicados no **Vercel**, com código abert
 ---
 
 ### 🌐 Portfólio Pessoal
+⚠️ **Aviso Importante**  
+Este portfólio foi **removido temporariamente do ar** para correções e melhorias.  
+Em breve será disponibilizada uma nova versão atualizada.  
+<!-- ### 🌐 Portfólio Pessoal
 - 📂 [Código](https://github.com/richardcustodio/Portfolio-)  
 - 🚀 [Demonstração](https://portfolio-neon-one-77.vercel.app/)  
-- ⚙️ Tecnologias: React, Vite
+- ⚙️ Tecnologias: React, Vite -->
 
 ---
 
